@@ -16,7 +16,9 @@
 </ul>
 
 <h2><strong>Demonstração do Projeto</strong></h2>
-<a href="[Link do Projeto]"><strong>[Project Link]</strong></a>
+<img src="./assets/image-podcast.png" alt="Debugwarts Podcast" width="200px"/>
+<br/>
+<a href="https://github.com/williandpg/debugwarts-podcast"><strong>Ouça o podcast aqui</strong></a>
 
 <h2><strong>Estrutura do Projeto</strong></h2>
 <p align="justify">A estrutura do projeto é organizada da seguinte forma:</p>
@@ -76,7 +78,8 @@
   </ul>
 
   <h2><strong>Project Demonstration</strong></h2>
-  <a href="[Link do Projeto]"><strong>[Project Link]</strong></a>
+  <img src="./assets/image-podcast.png" alt="Debugwarts Podcast" width="200px"/>
+  <a href="https://github.com/williandpg/debugwarts-podcast"><strong>Listen to the podcast here</strong></a>
 
   <h2><strong>Project Structure</strong></h2>
   <p align="justify">The project structure is organized as follows:</p>
