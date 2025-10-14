@@ -79,6 +79,7 @@
 
   <h2><strong>Project Demonstration</strong></h2>
   <img src="./assets/image-podcast.png" alt="Debugwarts Podcast" width="200px"/>
+  <br/>
   <a href="https://github.com/williandpg/debugwarts-podcast"><strong>Listen to the podcast here</strong></a>
 
   <h2><strong>Project Structure</strong></h2>
