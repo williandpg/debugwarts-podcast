@@ -1,27 +1,26 @@
-# **Debugwarts Podcast**
+<h1><strong>Debugwarts Podcast</strong></h1>
 
-## **Descrição**
-Este projeto consiste na criação completa de um podcast sobre desenvolvimento de jogos retrô com estética mágica e temática inspirada em Hogwarts.
-Todo o processo — desde a ideação do nome, roteirização do primeiro episódio, criação do personagem mascote, até a produção de áudio e edição final — foi realizado utilizando ferramentas de IA generativa.
-O objetivo foi aplicar os fundamentos aprendidos no curso de IA Generativa para construir um produto criativo, coeso e profissional do zero.
+<h2><strong>Descrição</strong></h2>
+<p align="justify">
+  Este projeto consiste na criação completa de um podcast sobre desenvolvimento de jogos retrô com estética mágica e temática inspirada em Hogwarts.
+  Todo o processo desde a ideação do nome, roteirização do primeiro episódio, criação do personagem mascote, até a produção de áudio e edição final foi realizado utilizando ferramentas de IA generativa.
+  O objetivo foi aplicar os fundamentos aprendidos no curso de IA Generativa para construir um produto criativo, coeso e profissional do zero.
+</p>
 
-## **Tecnologias Utilizadas**
-- **[ChatGPT](https://chatgpt.com/)**: Criação do nome, roteiro e estrutura do podcast.
-- **[Midjourney](https://www.midjourney.com/)**: Criação do personagem mascote e identidade visual.
-- **[ElevenLabs](https://elevenlabs.io/)**: Conversão do roteiro em áudio com voz gerada por IA.
-- **[CapCut](https://www.capcut.com/)**: Edição do episódio, mixagem e inserção de trilhas sonoras.
+<h2><strong>Tecnologias Utilizadas</strong></h2>
+<ul>
+  <li align="justify"><a href="https://chatgpt.com/"><strong>ChatGPT</strong></a>: Criação do nome, roteiro e estrutura do podcast.</li>
+  <li align="justify"><a href="https://www.midjourney.com/"><strong>Midjourney</strong></a>: Criação do personagem mascote e identidade visual.</li>
+  <li align="justify"><a href="https://elevenlabs.io/"><strong>ElevenLabs</strong></a>: Conversão do roteiro em áudio com voz gerada por IA.</li>
+  <li align="justify"><a href="https://www.capcut.com/"><strong>CapCut</strong></a>: Edição do episódio, mixagem e inserção de trilhas sonoras.</li>
+</ul>
 
-## **Funcionalidades**
-- **[Geração de Nome e Conceito]**: Nome “Debugwarts” e subtítulo criados com IA, unindo magia e tecnologia.
-- **[Roteirização Automática]**: Episódio piloto escrito inteiramente via ChatGPT.
-- **[Criação Visual]**: Mascote desenvolvido no Midjourney com estilo retrô mágico.
-- **[Produção de Áudio]**: Voz gerada via ElevenLabs com edição e sonorização no CapCut.
+<h2><strong>Demonstração do Projeto</strong></h2>
+<a href="[Link do Projeto]"><strong>[Project Link]</strong></a>
 
-## **Demonstração do Projeto**
-**[Acesse o projeto aqui]**: [Link do Projeto]
+<h2><strong>Estrutura do Projeto</strong></h2>
+<p align="justify">A estrutura do projeto é organizada da seguinte forma:</p>
 
-## **Estrutura do Projeto**
-A estrutura do projeto é organizada da seguinte forma:
 ```plaintext
 /
 ├── assets/
@@ -37,127 +36,82 @@ A estrutura do projeto é organizada da seguinte forma:
 └── README.md
 ```
 
-## **Instalação e Uso**
-Siga os passos abaixo para instalar e executar o projeto localmente:
+<h2><strong>Notas</strong></h2>
+<ul>
+  <li align="justify">Criei o nome e roteiro do podcast utilizando IA generativa (ChatGPT).</li>
+  <li align="justify">Desenvolvi a identidade visual do mascote com Midjourney.</li>
+  <li align="justify">Produzi o áudio do episódio com voz gerada por IA no ElevenLabs.</li>
+  <li align="justify">Editei e finalizei o episódio no CapCut, aplicando trilhas e cortes.</li>
+</ul>
 
-1. Clone o repositório:
-```bash
-git clone https://github.com/usuario/debugwarts-podcast.git
-```
-2. Navegue até a pasta do projeto:
-```bash
-cd debugwarts-podcast
-```
-3. Explore the script, image, and audio files generated in the `src` folder.
+<h2><strong>Contato</strong></h2>
+<p><strong>Willian Gonçalves</strong> | 
+    <a href="https://www.linkedin.com/in/williandpg/" target="_blank"><strong>LinkedIn</strong></a> | 
+    <a href="https://github.com/williandpg" target="_blank"><strong>Github</strong></a> | 
+    <a href="https://williandpg.github.io/" target="_blank"><strong>Portfólio</strong></a> | 
+    <a href="mailto:goncalves.wdp@outlook.com" target="_blank"><strong>Email</strong></a>
+</p>
 
-No dependencies required — this project is focused on AI content creation.
-
-## **Testes**
-No automated tests, as this is a creative media project.
-
-## **Contribuições**
-Contributions are welcome!
-
-1. Fork the repo.
-
-2. Create a branch:
-```bash
-git checkout -b minha-feature
-```
-
-3. Make your changes, and open a pull request.
-
-## **Contato**
-- **Autor**: Willian Gonçalves
-- **LinkedIn**: [Link do LinkedIn](https://www.linkedin.com/in/williandpg/)
-- **GitHub**: [Link do GitHub](https://github.com/williandpg)
-- **Email**: [Link do email](goncalves.wdp@outlook.com)
-
-## **Créditos**
-Este projeto foi desenvolvido como parte do curso de Fundamentos de IA Generativa oferecido pela DIO (Digital Innovation One).
+<h2><strong>Créditos</strong></h2>
+<p align="justify">Este projeto foi desenvolvido como parte do curso de Fundamentos de IA Generativa oferecido pela DIO.</p>
 
 <details>
   <summary>**English Version**</summary>
 
-# **Debugwarts Podcast**
+  <h1><strong>Debugwarts Podcast</strong></h1>
 
-## **Description**
-This project consists of the complete creation of a podcast about retro game development with a magical aesthetic inspired by Hogwarts.
-The entire process — from naming, writing the first episode, creating the mascot, to producing the audio and editing — was done using Generative AI tools.
-The goal was to apply the knowledge learned in the Generative AI course to build a cohesive and creative product from scratch.
+  <h2><strong>Descrição</strong></h2>
+  <p align="justify">
+    This project consists of the complete creation of a podcast about retro game development with a magical aesthetic inspired by Hogwarts.
+    The entire process from naming, writing the first episode, creating the mascot, to producing the audio and editing was done using Generative AI tools.
+    The goal was to apply the knowledge learned in the Generative AI course to build a cohesive and creative product from scratch.
+  </p>
 
-## **Technologies Used**
-- **[ChatGPT](https://chatgpt.com/)**: Podcast name and script generation.
-- **[Midjourney](https://www.midjourney.com/)**: Visual mascot creation.
-- **[ElevenLabs](https://elevenlabs.io/)**: AI voice generation.
-- **[CapCut](https://www.capcut.com/)**: Episode editing and sound mixing.
+  <h2><strong>Technologies Used</strong></h2>
+  <ul>
+    <li align="justify"><a href="https://chatgpt.com/"><strong>ChatGPT</strong></a>: Podcast name and script generation.</li>
+    <li align="justify"><a href="https://www.midjourney.com/"><strong>Midjourney</strong></a>: Visual mascot creation.</li>
+    <li align="justify"><a href="https://elevenlabs.io/"><strong>ElevenLabs</strong></a>: AI voice generation.</li>
+    <li align="justify"><a href="https://www.capcut.com/"><strong>CapCut</strong></a>: Episode editing and sound mixing.</li>
+  </ul>
 
-## **Features**
-- **[Naming & Concept Generation]**: “Debugwarts” name and theme created with AI.
-- **[Automatic Scriptwriting]**: Pilot episode written entirely with ChatGPT.
-- **[Visual Creation]**: Mascot designed in Midjourney.
-- **[Audio Production]**: Voice generated in ElevenLabs, edited in CapCut.
+  <h2><strong>Project Demonstration</strong></h2>
+  <a href="[Link do Projeto]"><strong>[Project Link]</strong></a>
 
-## **Project Demonstration**
-**[Access the project here]**: [Project Link]
+  <h2><strong>Project Structure</strong></h2>
+  <p align="justify">The project structure is organized as follows:</p>
 
-## **Project Structure**
-The project structure is organized as follows:
-```plaintext
-/
-├── assets/
-│   └── image-podcast.png
-├── output/
-│   ├── edited-audio.mp3
-│   └── synthesized-audio.mp3
-├── src/
-│   └── prompts/
-│      ├── chatgpt-name.md
-│      ├── chatgpt-roadmap.md
-│      └── midjourney-image.md
-└── README.md
-```
+  ```plaintext
+  /
+  ├── assets/
+  │   └── image-podcast.png
+  ├── output/
+  │   ├── edited-audio.mp3
+  │   └── synthesized-audio.mp3
+  ├── src/
+  │   └── prompts/
+  │      ├── chatgpt-name.md
+  │      ├── chatgpt-roadmap.md
+  │      └── midjourney-image.md
+  └── README.md
+  ```
 
-  ## **Installation and Usage**
-Follow the steps below to install and run the project locally:
+  <h2><strong>Notes</strong></h2>
+  <ul>
+    <li align="justify">Created the podcast name and script using generative AI (ChatGPT).</li>
+    <li align="justify">Developed the mascot’s visual identity with Midjourney.</li>
+    <li align="justify">Produced the episode’s audio using AI-generated voice in ElevenLabs.</li>
+    <li align="justify">Edited and finalized the episode in CapCut, adding music and cuts.</li>
+  </ul>
 
-1. Clone the repository:
-```bash
-git clone https://github.com/usuario/debugwarts-podcast.git
-```
-2. Navigate into the project folder:
-```bash
-cd debugwarts-podcast
-```
-3. Run the project:
-```bash
-npm start
-```
+  <h2><strong>Contact</strong></h2>
+  <p><strong>Willian Gonçalves</strong> | 
+    <a href="https://www.linkedin.com/in/williandpg/" target="_blank"><strong>LinkedIn</strong></a> | 
+    <a href="https://github.com/williandpg" target="_blank"><strong>GitHub</strong></a> | 
+    <a href="https://williandpg.github.io/" target="_blank"><strong>Portfolio</strong></a> | 
+    <a href="mailto:goncalves.wdp@outlook.com" target="_blank"><strong>Email</strong></a>
+  </p>
 
-## **Tests**
-Run automated tests with:
-```bash
-npm test
-```
-
-## **Contributions**
-Contributions are welcome! To contribute:
-
-1. Fork the project.
-
-2. Create a branch:
-```bash
-git checkout -b my-feature
-```
-
-3. Make your changes and submit a pull request.
-
-## **Contact**
-- **Author**: Willian Gonçalves
-- **LinkedIn**: [Link do LinkedIn](https://www.linkedin.com/in/williandpg/)
-- **GitHub**: [Link do GitHub](https://github.com/williandpg)
-- **Email**: [Link do email](goncalves.wdp@outlook.com)
-
-## **Credits**
-This project was developed as part of the Generative AI Fundamentals course by DIO (Digital Innovation One).
+  <h2><strong>Credits</strong></h2>
+  <p align="justify">This project was developed as part of the Generative AI Fundamentals course by DIO.</p>
 </details>
