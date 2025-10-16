@@ -1,6 +1,6 @@
 # 🧠 Prompts do Midjourney
 
-## ChatGPT：Imagem do podcaster
+## Midjourney：Imagem do podcaster
 
 |   Ação   | 
 A friendly and charismatic wizard podcaster with a black beard mascot character for a retro game development podcast. 
