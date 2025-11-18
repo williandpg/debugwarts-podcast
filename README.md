@@ -7,6 +7,21 @@
   O objetivo foi aplicar os fundamentos aprendidos no curso de IA Generativa para construir um produto criativo, coeso e profissional do zero.
 </p>
 
+<h2><strong>Funcionalidades</strong></h2>
+<ul>
+  <li align="justify">Criação do roteiro completo do episódio utilizando IA.</li>
+  <li align="justify">Geração de personagem mascote e identidade visual com IA.</li>
+  <li align="justify">Conversão do roteiro em áudio com voz sintetizada.</li>
+  <li align="justify">Edição final, trilha sonora e montagem do episódio.</li>
+</ul>
+
+<h2><strong>Demonstração do Projeto</strong></h2>
+<p align="center">
+  <img src="./assets/image-podcast.png" alt="Debugwarts Podcast" width="240px"/>
+  <br/>
+  <a href="https://williandpg.github.io/debugwarts-podcast"><strong>Ouça o podcast aqui</strong></a>
+</p>
+
 <h2><strong>Tecnologias Utilizadas</strong></h2>
 <ul>
   <li align="justify"><a href="https://chatgpt.com/"><strong>ChatGPT</strong></a>: Criação do nome, roteiro e estrutura do podcast.</li>
@@ -15,15 +30,10 @@
   <li align="justify"><a href="https://www.capcut.com/"><strong>CapCut</strong></a>: Edição do episódio, mixagem e inserção de trilhas sonoras.</li>
 </ul>
 
-<h2><strong>Demonstração do Projeto</strong></h2>
-<img src="./assets/image-podcast.png" alt="Debugwarts Podcast" width="200px"/>
-<br/>
-<a href="https://williandpg.github.io/debugwarts-podcast"><strong>Ouça o podcast aqui</strong></a>
-
 <h2><strong>Estrutura do Projeto</strong></h2>
 <p align="justify">A estrutura do projeto é organizada da seguinte forma:</p>
 
-```plaintext
+<pre><code>
 /
 ├── assets/
 │   └── image-podcast.png
@@ -36,15 +46,7 @@
 │      ├── chatgpt-roadmap.md
 │      └── midjourney-image.md
 └── README.md
-```
-
-<h2><strong>Notas</strong></h2>
-<ul>
-  <li align="justify">Criei o nome e roteiro do podcast utilizando IA generativa (ChatGPT).</li>
-  <li align="justify">Desenvolvi a identidade visual do mascote com Midjourney.</li>
-  <li align="justify">Produzi o áudio do episódio com voz gerada por IA no ElevenLabs.</li>
-  <li align="justify">Editei e finalizei o episódio no CapCut, aplicando trilhas e cortes.</li>
-</ul>
+</code></pre>
 
 <h2><strong>Contato</strong></h2>
 <p><strong>Willian Gonçalves</strong> | 
@@ -69,6 +71,21 @@
     The goal was to apply the knowledge learned in the Generative AI course to build a cohesive and creative product from scratch.
   </p>
 
+  <h2><strong>Features</strong></h2>
+  <ul>
+    <li align="justify">Full script creation using AI.</li>
+    <li align="justify">AI-generated mascot and visual identity.</li>
+    <li align="justify">AI voice synthesis for the episode.</li>
+    <li align="justify">Editing, mixing and sound design.</li>
+  </ul>
+
+  <h2><strong>Project Demonstration</strong></h2>
+  <p align="center">
+    <img src="./assets/image-podcast.png" alt="Debugwarts Podcast" width="200px"/>
+    <br/>
+    <a href="https://williandpg.github.io/debugwarts-podcast"><strong>Listen to the podcast here</strong></a>
+  </p>
+
   <h2><strong>Technologies Used</strong></h2>
   <ul>
     <li align="justify"><a href="https://chatgpt.com/"><strong>ChatGPT</strong></a>: Podcast name and script generation.</li>
@@ -77,15 +94,10 @@
     <li align="justify"><a href="https://www.capcut.com/"><strong>CapCut</strong></a>: Episode editing and sound mixing.</li>
   </ul>
 
-  <h2><strong>Project Demonstration</strong></h2>
-  <img src="./assets/image-podcast.png" alt="Debugwarts Podcast" width="200px"/>
-  <br/>
-  <a href="https://williandpg.github.io/debugwarts-podcast"><strong>Listen to the podcast here</strong></a>
-
   <h2><strong>Project Structure</strong></h2>
   <p align="justify">The project structure is organized as follows:</p>
 
-  ```plaintext
+  <pre><code>
   /
   ├── assets/
   │   └── image-podcast.png
@@ -98,15 +110,7 @@
   │      ├── chatgpt-roadmap.md
   │      └── midjourney-image.md
   └── README.md
-  ```
-
-  <h2><strong>Notes</strong></h2>
-  <ul>
-    <li align="justify">Created the podcast name and script using generative AI (ChatGPT).</li>
-    <li align="justify">Developed the mascot’s visual identity with Midjourney.</li>
-    <li align="justify">Produced the episode’s audio using AI-generated voice in ElevenLabs.</li>
-    <li align="justify">Edited and finalized the episode in CapCut, adding music and cuts.</li>
-  </ul>
+  </code></pre>
 
   <h2><strong>Contact</strong></h2>
   <p><strong>Willian Gonçalves</strong> | 
